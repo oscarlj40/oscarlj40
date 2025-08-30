@@ -32,6 +32,7 @@ Hi, I'm Oscar Emmanuel López Jiménez — Informatics Engineer with hands-on ex
 ## 📁 Projects
 
 🔹 [**PencilHero**](https://gervinky.github.io/PencilHero.html) – Game developed in Unity (C#, Game Design, QA)
+🔹 [**Portfolios**](https://oscarlj40.github.io/oscar-portfolio/) – A personal portfolio website built with React and Vite
 
 
 ## 📫 Contact
